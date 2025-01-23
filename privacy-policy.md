@@ -1,7 +1,7 @@
 # Privacy Policy
 ## Effective Date: January 18, 2025
 
-This Privacy Policy explains how we collect, use, and protect your information when you use the River Way Quiz Alexa skill.
+This Privacy Policy explains how we collect, use, and protect your information when you use the Die Hard Quiz Alexa skill.
 
 ### Information We Collect
 - No personal data is collected from users.
