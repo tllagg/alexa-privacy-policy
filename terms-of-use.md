@@ -1,7 +1,7 @@
 # Terms of Use
 ## Effective Date: January 18, 2025
 
-Welcome to the River Way Quiz Alexa skill. By using this skill, you agree to the following terms:
+Welcome to the Die Hard Quiz Alexa skill. By using this skill, you agree to the following terms:
 
 ### Use of the Skill
 - The skill is for entertainment purposes only.
